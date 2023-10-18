@@ -1,7 +1,7 @@
 #!@TERMUX_PREFIX@/bin/bash
 ##
 ## Script for managing PRoot containers with Linux distributions.
-##
+###
 ## Originally created by Leonid Pliushch <sylirre@termux.dev> for Termux
 ## project.
 ##
